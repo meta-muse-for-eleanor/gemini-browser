@@ -1,0 +1,5 @@
+name: "gemini-browser"
+title: "Browse Gemini pages"
+description: "Fetch and summarise gemini:// pages, just like https:// pages, following links, redirects and input prompts."
+category: "Work and knowledge"
+include_in_prompt: true
